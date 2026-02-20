@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Ayush, and I'm an MCA pass out interested in automation and deployment!
+
+- 🔭 I’m currently working on devops projects.
+- 🌱 I’m build some automated script on backup.
+- 👯 I’m looking to collaborate on industry projects.
+  - Send me invite on ayushofficialsv@gmail.com
 
 <!--
 **singhayush61/singhayush61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
