@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on devops projects.<br>🌱 I’m build some automated script on backup.<br>👯 I’m looking to collaborate on industry projects.<br>Send me invite on ayushofficialsv@gmail.com</p>
+<p align="left">🔭 I’m currently working on building a CI/CD pipeline.<br>🌱 I’m build some automated script on backup.<br>👯 I’m looking to collaborate on industry projects.<br>Send me invite on ayushofficialsv@gmail.com</p>
 
 ###
 
