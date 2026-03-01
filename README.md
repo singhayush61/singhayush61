@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm interested in automation and deployment!</p>
+<p align="left">I'm interested in automation and deployment.</p>
 
 ###
 
