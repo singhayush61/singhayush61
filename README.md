@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm interested in automation and deployment.</p>
+<p align="left">I'm interested in automation and deployment!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on devops projects.<br>🌱 I’m build CI/CD pipeline project!<br>👯 I’m looking to collaborate on industry projects.<br>Contact me on ayushofficialsv@gmail.com</p>
+<p align="left">🔭 I’m currently working on devops projects.<br>🌱 I’m build Terraform infrastrusture projects.<br>👯 I’m build CI/CD pipeline projects.<br>Send me invite on ayushofficialsv@gmail.com</p>
 
 ###
 
@@ -34,6 +34,8 @@
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
