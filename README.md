@@ -70,18 +70,6 @@ https://github.com/ devops-project-docker
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=singhayush61&show_icons=true&theme=tokyonight" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush61&layout=compact&theme=tokyonight" height="170" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/singhayush61/singhayush61/output/snake.svg" alt="Snake animation" />
