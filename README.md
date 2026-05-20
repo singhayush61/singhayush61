@@ -81,18 +81,6 @@ https://github.com/singhayush61
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=singhayush61&show_icons=true&theme=tokyonight" height="180em" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush61&layout=compact&theme=tokyonight" height="180em" />
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -116,16 +104,6 @@ https://github.com/singhayush61
 </a>
 
 </p>
-
----
-
-# ⚡ DevOps Philosophy
-
-```bash
-Automate infrastructure.
-Simplify deployments.
-Build reliable systems.
-```
 
 ---
 
