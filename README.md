@@ -1,77 +1,136 @@
-<h1 align="center">Hi 👋 I'm Ayush Singh</h1>
+<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 
 <h3 align="center">
-Aspiring DevOps Engineer focused on Cloud Infrastructure, CI/CD Automation and Kubernetes
+Aspiring DevOps Engineer from India 🇮🇳
 </h3>
+
+<p align="center">
+Focused on Cloud Infrastructure, CI/CD Automation, Containers and Kubernetes
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building DevOps and Cloud Infrastructure projects
-- 🌱 Learning GitOps workflows using ArgoCD
-- ☁️ Working with AWS, Terraform, Docker and Kubernetes
-- ⚙️ Building automated CI/CD pipelines using GitHub Actions and Jenkins
-- 🐧 Passionate about Linux, automation and scalable infrastructure
+- 🔭 Currently working on **DevOps and Cloud Infrastructure Projects**
+- 🌱 Learning **GitOps with ArgoCD and Kubernetes**
+- ☁️ Working with **AWS, Terraform, Docker and CI/CD pipelines**
+- ⚙️ Building automation workflows using **GitHub Actions and Jenkins**
+- 🐧 Passionate about **Linux, Automation and Infrastructure Engineering**
+- 🎯 Goal: Become a Production-Level DevOps Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,github,gitlab,bash,linux,git,ansible,prometheus,grafana,python,vscode" />
+### ⚙️ DevOps & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=github,gitlab,jenkins,docker,kubernetes" />
+</p>
 
-</div>
+### 🐧 OS, Scripting & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,python,vscode" />
+</p>
+
+### 📊 Monitoring & Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
 
 ---
 
-## 📌 Featured Project
+# 📌 Featured Projects
 
-### 🚀 Full CI/CD Pipeline using GitHub Actions, Docker, Terraform & AWS EC2
+## 🚀 Full CI/CD Pipeline using GitHub Actions, Docker, Terraform & AWS EC2
 
-- Automated Docker image build and deployment workflow
-- Provisioned AWS EC2 infrastructure using Terraform
-- Implemented end-to-end CI/CD pipeline automation
-- Containerized application deployment using Docker
+### Features
+- Automated Docker image build and deployment
+- Infrastructure provisioning using Terraform
+- CI/CD pipeline automation using GitHub Actions
+- Dockerized application deployment
+- Automated end-to-end deployment workflow
 - Reduced deployment time through automation
 
+### Tech Used
+`AWS` `Terraform` `Docker` `GitHub Actions` `Linux` `Docker Compose`
+
 🔗 Repository:  
-https://github.com/devops-project-docker
+https://github.com/singhayush61
 
 ---
 
-## 📈 Currently Learning
+# 📈 Currently Learning
 
 - GitOps with ArgoCD
 - Kubernetes Monitoring Stack
 - Advanced Terraform Workflows
+- Kubernetes Networking
 - Cloud Infrastructure Automation
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 - AWS Certified Cloud Practitioner
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-<div align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/ayush-singh-dev01/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=singhayush61&show_icons=true&theme=tokyonight" height="180em" />
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush61&layout=compact&theme=tokyonight" height="180em" />
 
-📧 Email: ayushsinghofficialsv@gmail.com
+</p>
 
 ---
 
-<div align="center">
+# 🔥 GitHub Streak
 
-<img src="https://raw.githubusercontent.com/singhayush61/singhayush61/output/snake.svg" alt="Snake animation" />
+<p align="center">
 
-</div>
+<img src="https://streak-stats.demolab.com?user=singhayush61&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/ayush-singh-dev01/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:ayushsinghofficialsv@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+</p>
+
+---
+
+# ⚡ DevOps Philosophy
+
+```bash
+Automate infrastructure.
+Simplify deployments.
+Build reliable systems.
+```
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/singhayush61/singhayush61/output/snake.svg" alt="snake animation" />
+
+</p>
