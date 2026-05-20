@@ -82,12 +82,6 @@ https://github.com/ devops-project-docker
 
 ---
 
-## ⚡ DevOps Philosophy
-
-> Automate infrastructure. Simplify deployments. Build reliable systems.
-
----
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/singhayush61/singhayush61/output/snake.svg" alt="Snake animation" />
