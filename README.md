@@ -9,10 +9,10 @@ Aspiring DevOps Engineer focused on Cloud Infrastructure, CI/CD Automation and K
 ## 🚀 About Me
 
 - 🔭 Currently building DevOps and Cloud Infrastructure projects
-- 🌱 Learning GitOps workflows with ArgoCD
+- 🌱 Learning GitOps workflows using ArgoCD
 - ☁️ Working with AWS, Terraform, Docker and Kubernetes
-- ⚙️ Building CI/CD pipelines using GitHub Actions and Jenkins
-- 🐧 Linux and automation enthusiast
+- ⚙️ Building automated CI/CD pipelines using GitHub Actions and Jenkins
+- 🐧 Passionate about Linux, automation and scalable infrastructure
 
 ---
 
@@ -26,17 +26,18 @@ Aspiring DevOps Engineer focused on Cloud Infrastructure, CI/CD Automation and K
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 ### 🚀 Full CI/CD Pipeline using GitHub Actions, Docker, Terraform & AWS EC2
 
-- Automated Docker image build and deployment
-- Provisioned AWS infrastructure using Terraform
-- Implemented end-to-end CI/CD workflow
-- Containerized Node.js application deployment
-- Reduced deployment time by 70%
+- Automated Docker image build and deployment workflow
+- Provisioned AWS EC2 infrastructure using Terraform
+- Implemented end-to-end CI/CD pipeline automation
+- Containerized application deployment using Docker
+- Reduced deployment time through automation
 
-🔗 Repository: https://github.com/singhayush61
+🔗 Repository:  
+https://github.com/singhayush61
 
 ---
 
@@ -44,7 +45,7 @@ Aspiring DevOps Engineer focused on Cloud Infrastructure, CI/CD Automation and K
 
 - GitOps with ArgoCD
 - Kubernetes Monitoring Stack
-- Advanced Terraform
+- Advanced Terraform Workflows
 - Cloud Infrastructure Automation
 
 ---
@@ -66,6 +67,18 @@ Aspiring DevOps Engineer focused on Cloud Infrastructure, CI/CD Automation and K
 </div>
 
 📧 Email: ayushsinghofficialsv@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=singhayush61&show_icons=true&theme=tokyonight" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush61&layout=compact&theme=tokyonight" height="170" />
+
+</div>
 
 ---
 
