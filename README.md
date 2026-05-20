@@ -88,7 +88,7 @@ Production-ready CI/CD pipeline project using GitHub Actions, Docker, Terraform 
 
 ### 🔗 Repository
 
-<a href="https://github.com/singhayush61">
+<a href="https://github.com/devops-project-docker">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -110,18 +110,6 @@ Production-ready CI/CD pipeline project using GitHub Actions, Docker, Terraform 
 ## ☁️ AWS Certified Cloud Practitioner
 
 - Valid: Nov 2025 – Nov 2028
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=singhayush61&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhayush61&layout=compact&theme=tokyonight" height="180em"/>
-
-</p>
 
 ---
 
@@ -151,16 +139,6 @@ Production-ready CI/CD pipeline project using GitHub Actions, Docker, Terraform 
 
 ---
 
-# ⚡ DevOps Philosophy
-
-```bash
-Automate infrastructure.
-Simplify deployments.
-Build reliable systems.
-```
-
----
-
 # 🐍 Contribution Graph
 
 <p align="center">
@@ -170,26 +148,3 @@ Build reliable systems.
 </p>
 
 ---
-
-# 💡 Current Focus
-
-```yaml
-Cloud:
-  - AWS
-  - Infrastructure Automation
-
-DevOps:
-  - CI/CD
-  - Docker
-  - Kubernetes
-  - GitOps
-
-Monitoring:
-  - Prometheus
-  - Grafana
-
-Learning:
-  - Production-grade Infrastructure
-  - Scalability
-  - Reliability Engineering
-```
