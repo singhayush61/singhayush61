@@ -1,71 +1,82 @@
-<h1 align="left">Hey 👋  I'm Ayush</h1>
+<h1 align="center">Hi 👋 I'm Ayush Singh</h1>
 
-###
+<h3 align="center">
+Aspiring DevOps Engineer focused on Cloud Infrastructure, CI/CD Automation and Kubernetes
+</h3>
 
-<p align="left">I'm interested in automation and deployment!</p>
+---
 
-###
+## 🚀 About Me
 
-<h2 align="left">About me</h2>
+- 🔭 Currently building DevOps and Cloud Infrastructure projects
+- 🌱 Learning GitOps workflows with ArgoCD
+- ☁️ Working with AWS, Terraform, Docker and Kubernetes
+- ⚙️ Building CI/CD pipelines using GitHub Actions and Jenkins
+- 🐧 Linux and automation enthusiast
 
-###
+---
 
-<p align="left">🔭 I’m currently working on devops projects.<br>🌱 I’m build Terraform infrastrusture projects.<br>👯 I’m build CI/CD pipeline projects.<br>Send me invite on ayushofficialsv@gmail.com</p>
-
-###
-
-<h2 align="left">Skills</h2>
-
-###
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,github,gitlab,bash,linux,git,ansible,prometheus,grafana,python,vscode" />
+
 </div>
 
-###
+---
+
+## 📌 Featured Projects
+
+### 🚀 Full CI/CD Pipeline using GitHub Actions, Docker, Terraform & AWS EC2
+
+- Automated Docker image build and deployment
+- Provisioned AWS infrastructure using Terraform
+- Implemented end-to-end CI/CD workflow
+- Containerized Node.js application deployment
+- Reduced deployment time by 70%
+
+🔗 Repository: https://github.com/singhayush61
+
+---
+
+## 📈 Currently Learning
+
+- GitOps with ArgoCD
+- Kubernetes Monitoring Stack
+- Advanced Terraform
+- Cloud Infrastructure Automation
+
+---
+
+## 🏆 Certifications
+
+- AWS Certified Cloud Practitioner
+
+---
+
+## 📫 Connect With Me
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/ayush-singh-dev01/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+</div>
+
+📧 Email: ayushsinghofficialsv@gmail.com
+
+---
+
+## ⚡ DevOps Philosophy
+
+> Automate infrastructure. Simplify deployments. Build reliable systems.
+
+---
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/singhayush61/singhayush61/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ayush-singh-dev01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=singhayush61.singhayush61&"  />
-</div>
-
-###
