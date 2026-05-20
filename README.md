@@ -37,7 +37,7 @@ Aspiring DevOps Engineer focused on Cloud Infrastructure, CI/CD Automation and K
 - Reduced deployment time through automation
 
 🔗 Repository:  
-https://github.com/singhayush61
+https://github.com/ devops-project-docker
 
 ---
 
